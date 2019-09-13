@@ -1,0 +1,12 @@
+{
+  "name": "booferbot",
+  "version": "1.0.0",
+  "description": "A bot which lists 'boofers' and prints out a message once a listed user types",
+  "main": "bot.js",
+  "author": "PixelStrafe",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "git": "^0.1.5"
+  }
+}
